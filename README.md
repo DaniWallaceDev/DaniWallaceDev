@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniwallacedev" alt="daniwallacedev" /></a> </p>
 
-- 🌱 I’m currently learning about API, databases and python with a friend course. **https://lite.evernote.com/note/075261d8-97f8-5cdd-0db8-5ac243296b15**
+- 🌱 I’m currently learning about API, databases and python with a friend course.
 
 - 👨‍💻 All of my projects are available at [https://github.com/DaniWallaceDev?tab=repositories](https://github.com/DaniWallaceDev?tab=repositories)
 
